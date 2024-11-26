@@ -1,0 +1,93 @@
+# Build artifacts
+bin/
+obj/
+out/
+
+# Debug and Release configuration files
+*.user
+*.rsuser
+*.suo
+*.dotCover
+*.vspscc
+*.vssscc
+*.cache
+*.pdb
+*.mdb
+*.ilk
+*.log
+*.vsix
+*.nupkg
+*.snk
+*.psess
+*.vspx
+
+# Visual Studio specific
+.vscode/
+.vs/
+.vscode/
+launchSettings.json
+
+# Rider specific
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs and database
+*.log
+*.tlog
+*.cache
+*.pidb
+*.sql
+*.sqlite
+
+# Temporary files
+~$*
+*.tmp
+*.temp
+*.TMP
+*.bak
+*.old
+
+# Resharper
+_ReSharper*
+*.DotSettings.user
+
+# StyleCop
+StyleCop.Cache
+
+# Packages and dependencies
+*.nupkg
+*.nuspec
+packages/
+.nuget/
+
+# DotNetCore files
+project.lock.json
+project.fragment.lock.json
+artifacts/
+*.runtimeconfig.json
+*.deps.json
+
+# Coverage reports
+coverage/
+*.coverage
+*.coveragexml
+
+# IIS configuration
+.publishsettings
+
+# JetBrains Rider
+.idea/
+
+# JetBrains settings
+*.sln.iml
+
+# MacOS
+*.DS_Store
+
+# Windows thumbnail cache
+Thumbs.db
+
+# End of .gitignore
